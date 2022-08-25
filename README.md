@@ -8,7 +8,7 @@ Meu contato é victor.allisson95@gmail.com
 
 👋 Hi, I’m @medeiros95
 - 👀 I’m interested in work with development.
-- 🌱 I’m currently learning C# .NetFramework and I'm matriculate in univesity analysis and systems development.
+- 🌱 I’m currently learning C# .NetFramework and I'm matriculate in univesity of analysis and systems development.
 - 📫 How to reach me victor.allisson95@gmail.com
 
 <!---
