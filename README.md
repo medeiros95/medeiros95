@@ -1,8 +1,8 @@
-Me chamo Victor, sou estudante de programação e desenvolvimento.
-Busco ingressar na área de desenvolvimento, através de estágio ou até mesmo emprego efetivo.
-Atualmente estou inscrito na faculdade de análise e desenvolvimento de sistemas.
-Estou estudando também programação C# .Net, fiz cursos de lógica de programação e programação orientada a objetos.
-Meu contato é victor.allisson95@gmail.com
+👋 Me chamo Victor, sou estudante de programação e desenvolvimento.
+- 👀 Busco ingressar na área de desenvolvimento, através de estágio ou até mesmo emprego efetivo.
+- 🌱Atualmente estou inscrito na faculdade de análise e desenvolvimento de sistemas.
+- 🌱Estou estudando também programação C# .Net, fiz cursos de lógica de programação e programação orientada a objetos.
+- 📫Meu contato é victor.allisson95@gmail.com
 
 
 
