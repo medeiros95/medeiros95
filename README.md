@@ -1,9 +1,12 @@
 # 💫 About Me:
- Me chamo Victor, sou estudante de programação e desenvolvimento.<br><br>👀 Busco ingressar na área de desenvolvimento BackEnd.<br>🌱Atualmente estou inscrito no Curso de Desenvolvimento Back-End da Cubos Academy com foco em Node.JS<br>🌱Estou estudando também programação JavaScript, Node.Js, Banco de Dados Sql, fiz cursos de lógica de programação e programação orientada a objetos.<br><br><br>👋 Hi, I’m @medeiros95<br>👀 I’m interested in work with BackEnd development.<br>🌱 I’m currently learning JavaScript, Node.Js, Sql database<br>🌱I'm currently enrolled in the Back-End Development Course at Cubos Academy focusing on Node.JS<br>
+👋 Me chamo Victor, sou estudante de programação e desenvolvimento mobile.
 
+👀 Atualmente estou explorando o fascinante mundo do desenvolvimento mobile com desenvolvimento nativo Android e Java. 
+
+🌱 Sou um desenvolvedor Back-End e já tenho conhecimento em NodeJS, JavaScript e PostgreSql.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vi-medeiros/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vi-medeiros/)
 
 # 💻 Tech Stack:
 
